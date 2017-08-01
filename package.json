@@ -58,7 +58,7 @@
     "is-symlink-sync": "^1.0.2",
     "minimatch": "^3.0.3",
     "object-assign": "^4.1.0",
-    "read-json-sync": "^1.1.1",
+    "read-json-sync": "=1.1.1",
     "untildify": "^3.0.2",
     "yargs": "^8.0.1"
   }
